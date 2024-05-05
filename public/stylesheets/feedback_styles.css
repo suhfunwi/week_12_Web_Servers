@@ -1,0 +1,8 @@
+body{
+    background-color: lightblue;
+    font-family: 'Roboto Condensed', sans-serif;
+    /*CSS rule for the font family from the library to apply to  the entire body*/
+}
+.header{
+    font-family: 'Teko', sans-serif;
+}
